@@ -1,4 +1,4 @@
-<img src="doc/image/repository-open-graph-template(1)(2).png" style="max-width: 700 px;">
+<img src="Docimg.jpg" style="max-width: 700 px;">
 
 # Spatial ability, Movement experts, scales of space
 This repo contains materials and source (including the Spatial ability, Movement experts, scales of space Unity Project assets for further development or future studies, and also the final game and experiment we used in our paper) 
